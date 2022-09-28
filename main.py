@@ -44,8 +44,12 @@ makes = dict({"Ford": ["Mustang", "F-150", "Escape", "Bronco", "Edge", "Explorer
 car_colors = [
     "Red",
     "Blue",
-    ""
-]
+    "Green",
+    "Yellow",
+    "Black",
+    "White",
+    "Gray",
+    ]
 
 car_list = []
 
